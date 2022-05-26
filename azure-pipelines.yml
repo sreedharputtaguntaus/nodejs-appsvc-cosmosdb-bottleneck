@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'webapp-load-testing-sree'
+  webAppName: 'cicd-load-test'
   serviceConnection: 'MyAzureLoadTestingRG'
   azureSubscriptionId: '11da7814-34c2-4065-bf1b-b32f87a93a80'
   loadTestResource: 'ltr-sree-pipelines'
